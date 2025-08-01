@@ -21,8 +21,7 @@ A responsive clone of the Ableton website homepage built with semantic HTML and 
 
 ## Live Demo
 
-[Open `index.html` in your browser to view the project.
-](https://andee-k.github.io/ableton-site-demo/)
+https://andee-k.github.io/ableton-site-demo/
 
 ## Structure
 
