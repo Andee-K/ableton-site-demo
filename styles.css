@@ -301,6 +301,12 @@ a {
   background-color: var(--color-ableton-purple);
 }
 
+@media screen and (max-width: 32rem) {
+  .gallery-background-4 {
+    padding: 3rem 0;
+  }
+}
+
 .main__gallery-wrapper-4 .main__gallery-image-7 {
   width: 33%;
   position: absolute;
@@ -365,11 +371,12 @@ h3 {
   }
 
   .main__gallery-card-content {
-    padding: 6rem; 
+    padding: 4rem 3rem; 
   }
 
   .main__gallery-card-content h3 {
-    line-height: normal; 
+    line-height: 2rem;
+
   }
 }
 
