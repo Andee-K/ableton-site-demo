@@ -1,4 +1,5 @@
 # Ableton Demo
+<img width="1512" height="806" alt="Screenshot 2025-08-01 at 4 57 38 PM" src="https://github.com/user-attachments/assets/dedb6879-a528-4202-97ad-a6a7e62e9aab" />
 
 A responsive clone of the Ableton website homepage built with semantic HTML and modern CSS.
 
@@ -20,7 +21,8 @@ A responsive clone of the Ableton website homepage built with semantic HTML and 
 
 ## Live Demo
 
-Open `index.html` in your browser to view the project.
+[Open `index.html` in your browser to view the project.
+](https://andee-k.github.io/ableton-site-demo/)
 
 ## Structure
 
